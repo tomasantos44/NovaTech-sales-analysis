@@ -90,8 +90,6 @@ The workbook includes an executive dashboard containing:
 
 - ![NovaTech Sales Performance Dashboard](dashboard.png)
 
-> Add a screenshot of the final Dashboard here when publishing this project.
-
 ## Workbook Structure
 
 - `Clean_Data` — cleaned transaction-level dataset
