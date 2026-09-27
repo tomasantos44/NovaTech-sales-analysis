@@ -88,6 +88,8 @@ The workbook includes an executive dashboard containing:
 - Top 5 products by revenue
 - Salesperson revenue vs. profit
 
+- ![NovaTech Sales Performance Dashboard](dashboard.png)
+
 > Add a screenshot of the final Dashboard here when publishing this project.
 
 ## Workbook Structure
